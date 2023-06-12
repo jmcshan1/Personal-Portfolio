@@ -46,9 +46,10 @@ main{
 }
 
 #About-Me{
-    margin-top:40px;
-    width:auto;
-    height:300px;
+    padding-top:40px;
+    height:auto;
+    overflow:auto;
+    margin-bottom:30px;
 }
 
 #About-Me h2{
@@ -63,12 +64,13 @@ main{
 }
 
 #Projects{
-    width:auto;
-    height:auto;
+    overflow: auto;
+    /* width:100%;
+    height:1000px; */
 }
 
 #Projects h2{
-    display:inline-block;
+    display:inline;
     width:30%;
     /* float:left; */
     
@@ -78,8 +80,8 @@ main{
     width:70%;
     display:inline;
     float:right;
-    flex-direction: column;
     flex-wrap: wrap;
+    flex-direction: column;
 }
 
 #Projects #firstProject{
@@ -88,7 +90,19 @@ main{
 }
 
 #Projects img{
+    display:inline;
     max-height:auto;
-    max-width:50%;
+    max-width:49%;
 }
 
+footer{
+    color:white;
+    background-color:#61687A;
+    text-align:center; 
+}
+
+footer img{
+    width:60px;
+    height:auto;
+    margin: 20px  10px;
+}
