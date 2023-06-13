@@ -11,4 +11,4 @@ This is my Personal Portfolio. At the top is a navigation bar with links that wi
 ![Alt text](./assets/Images/Screenshot.png)
 
 ### Link:
-https://jmcshan1.github.io/Horiseon-Webpage/
+https://jmcshan1.github.io/Personal-Portfolio/
