@@ -23,7 +23,7 @@ p{
 header{
     padding: 5vh 0;
     width:100%;
-    background-image:url(../assets/Images/Header\ Background\ Image.jpg);
+    background-image:url(../Assets/Images/Header\ Background\ Image.jpg);
     background-size:cover;
     color:white;
     display:flex;
